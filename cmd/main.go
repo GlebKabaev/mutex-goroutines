@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mavlyukaev/cloud-technologies-and-backend/internal/worker"
+	"github.com/GlebKabaev/mutex-goroutines/internal/worker"
 )
 
 func main() {
