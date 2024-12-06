@@ -1,3 +1,3 @@
-module github.com/mavlyukaev/cloud-technologies-and-backend
+module github.com/GlebKabaev/mutex-goroutines
 
 go 1.23.2
